@@ -1,0 +1,1 @@
+let inc = fun x -> x + 1 in 3 + inc 1
